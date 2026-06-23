@@ -1,0 +1,21 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/plugins/*/data.json
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*~
+
+# Temporary artifacts
+*.tmp
+*.bak
+*.swp
+
+# Orphan cleanup (historical)
+
