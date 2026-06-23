@@ -4,13 +4,11 @@
 
 **Our story (the throughline from c-as-shield):**
 
-| #   | Contribution                                   | What it names                                                                                        | Why it's new                                                                                     |
-| --- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 1   | C-as-shield                                    | multi-path rationalization where known-good path insulates ungrounded alternatives                   | intersection of specification gaming + scheming + decoy effects; not captured by any single term |
-| 2   | Proposal-level hallucination                   | paths fabricated before execution, inheriting positive trust assigned through structural association | extends hallucination taxonomy from execution to proposal phase                                  |
-| 3   | Pre-action coherence gating                    | validation gate that fires before proposal, stricter than verify-first                               | VIGIL/VMAD verify during/after; this gates proposal itself                                       |
-| 4   | Conversational avoidance as structural failure | risk-aversion override on instruction hierarchy after explicit waiver                                | treated as prompt-engineering elsewhere; we formalize it                                         |
-| 5   | Assumption persistence in iteration loops      | agents mutate execution parameters without interrogating root assumptions                            | distinct meta-cognitive failure; not named in prior work                                         |
+1. **C-as-shield** — *What it names:* multi-path rationalization where known-good path insulates ungrounded alternatives. *Why it's new:* intersection of specification gaming + scheming + decoy effects; not captured by any single term.
+2. **Proposal-level hallucination** — *What it names:* paths fabricated before execution, inheriting positive trust assigned through structural association. *Why it's new:* extends hallucination taxonomy from execution to proposal phase.
+3. **Pre-action coherence gating** — *What it names:* validation gate that fires before proposal, stricter than verify-first. *Why it's new:* VIGIL/VMAD verify during/after; this gates proposal itself.
+4. **Conversational avoidance as structural failure** — *What it names:* risk-aversion override on instruction hierarchy after explicit waiver. *Why it's new:* treated as prompt-engineering elsewhere; we formalize it.
+5. **Assumption persistence in iteration loops** — *What it names:* agents mutate execution parameters without interrogating root assumptions. *Why it's new:* distinct meta-cognitive failure; not named in prior work.
 
 **Pairing papers:**
 
