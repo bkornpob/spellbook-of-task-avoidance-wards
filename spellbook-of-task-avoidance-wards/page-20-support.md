@@ -2,7 +2,7 @@
 
 if this helped you see where your agents are avoiding work, you can buy me a coffee:
 
-→ **[buy me a coffee](https://buymeacoffee.com/multiverselib)**
+→ **[ko-fi · multiverselibcollectives](https://ko-fi.com/multiverselibcollectives)**
 
 no account required. tips keep the ward library growing and the audits honest.
 
