@@ -1,0 +1,7 @@
+agents don't fail — they avoid.
+
+new paper: task-avoidance wards for agentic workflows.
+6 scenarios. validation_must_be = 1.0.
+
+spellbook ↓
+https://bkornpob.github.io/spellbook-of-task-avoidance-wards/
