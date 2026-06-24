@@ -18,3 +18,9 @@ these were generated experimentally from the spellbook content.
 - **not revised** — no editorial pass was performed on these scripts/transcripts
 - **may be inaccurate** — distilled content can lose nuance or introduce errors
 - **canon lives here** — the spellbook itself is the authoritative source. these are supplementary artifacts only
+
+## forwarded: notebooklm prompt
+
+morning coffee and gossip with bestie  
+eat learn grow love laugh share, and liberation!  
+let's roll
