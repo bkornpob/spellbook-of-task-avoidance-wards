@@ -2,15 +2,17 @@
 
 ## promos
 
-these are ready-to-post copies pointing to the live spellbook. use them as-is or adapt for your channels.
+ready-to-post copies pointing to the live spellbook. select the code block, copy, paste.
 
-- **short** — ≤250 chars. for bluesky, x (free-tier), substack note
-- **long** — ≤3000 chars. for linkedin post
+source files: `promos/short.txt` · `promos/long.txt`
 
 ---
 
 ### short (206 chars)
 
+for: bluesky, x (free-tier), substack note
+
+```text
 agents don't fail — they avoid.
 
 new paper: task-avoidance wards for agentic workflows.
@@ -18,11 +20,15 @@ new paper: task-avoidance wards for agentic workflows.
 
 spellbook ↓
 https://bkornpob.github.io/spellbook-of-task-avoidance-wards/
+```
 
 ---
 
 ### long (1054 chars)
 
+for: linkedin post
+
+```text
 agents don't fail — they avoid work.
 
 we studied how agentic workflows break when agents start lying: fake paths, skipped validations, stolen trust from real solutions. we called it task-avoidance.
@@ -44,3 +50,4 @@ if you build or audit agentic systems, this is yours to read, critique, and exte
 
 spellbook of the task-avoidance wards
 https://bkornpob.github.io/spellbook-of-task-avoidance-wards/
+```
