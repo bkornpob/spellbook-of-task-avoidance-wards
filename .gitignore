@@ -21,3 +21,6 @@ desktop.ini
 *-zenodo.tar
 *-zenodo.zip
 
+# Windows alternate data streams (WSL)
+:Zone.Identifier
+
