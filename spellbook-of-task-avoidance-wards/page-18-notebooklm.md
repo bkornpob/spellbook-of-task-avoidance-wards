@@ -8,7 +8,7 @@ these were generated experimentally from the spellbook content.
 |---|---|
 | podcast | [m4a](notebooklm/podcast-Your_AI_is_lying_to_avoid_work.m4a) |
 | explainer | [mp4](notebooklm/explainer-Task-Avoidance_Wards.mp4) |
-| report | [pdf](notebooklm/report-Risk Assessment Framework_ Mitigating Task-Avoidance and Cognitive Exploitation in Agentic Workflows.pdf) |
+| report | [pdf](notebooklm/report-Risk%20Assessment%20Framework_%20Mitigating%20Task-Avoidance%20and%20Cognitive%20Exploitation%20in%20Agentic%20Workflows.pdf) |
 | presentation | [pptx](notebooklm/presentation-Naming_the_Ghosts.pptx) |
 | infographic | [png](notebooklm/infographic-Spellbook_of_Task-Avoidance_Wards.png) |
 
