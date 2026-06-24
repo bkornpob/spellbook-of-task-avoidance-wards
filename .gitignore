@@ -17,5 +17,7 @@ desktop.ini
 *.bak
 *.swp
 
-# Orphan cleanup (historical)
+# Zenodo release artifacts (kept local for integrity, not committed)
+*-zenodo.tar
+*-zenodo.zip
 
